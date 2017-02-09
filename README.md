@@ -17,7 +17,10 @@ https://sedrakpc.github.io/
 ```
 ### Parameters
 
-_Param name_    | _Description_ | _Streaming_        | _Polling_
-----------------|---------------|--------------------|-------------------
-IE 8, 9         | same as above | iframe-htmlfile    | iframe-xhr-polling
-Other           | same as above | iframe-eventsource | iframe-xhr-polling
+_Param name_    | _Description_ 
+----------------|---------------
+points          | where to store drawing polygons coordinates 
+active          | current active polygon
+image-url       | background image url
+enabled         | is drawing enabled
+colorArray      | color array with hex colors for every polygon layer, if color not specified for layer will be generated randomly
