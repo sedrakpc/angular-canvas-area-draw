@@ -6,7 +6,7 @@ Simple directive to draw polygons over image using canvas
 https://sedrakpc.github.io/
 
 ### Preview:
-![alt tag](https://cloud.githubusercontent.com/assets/6464002/22788262/182d8192-ef01-11e6-8da0-903c1ddfa70f.png)
+![alt tag](https://user-images.githubusercontent.com/6464002/134110411-d8397ae1-9d2d-4fd9-bceb-d6c557ad5026.png)
 
 ### Usage:
 
